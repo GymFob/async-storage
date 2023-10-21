@@ -64,7 +64,7 @@
     "hoistingLimits": "workspaces"
   },
   "dependencies": {
-    "merge-options": "^3.0.4"
+    "merge-options": "GymFob/merge-options"
   },
   "peerDependencies": {
     "react-native": "^0.0.0-0 || 0.60 - 0.72 || 1000.0.0"
