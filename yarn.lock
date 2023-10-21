@@ -3925,7 +3925,7 @@ __metadata:
     eslint-plugin-wdio: ^8.8.7
     expo: ^48.0.0
     lodash: ^4.17.21
-    merge-options: ^3.0.4
+    merge-options: GymFob/merge-options
     prettier: 2.8.8
     react: 18.2.0
     react-dom: ^18.2.0
@@ -15418,12 +15418,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"merge-options@npm:^3.0.4":
+merge-options@GymFob/merge-options:
   version: 3.0.4
-  resolution: "merge-options@npm:3.0.4"
+  resolution: "merge-options@https://github.com/GymFob/merge-options.git#commit=0b7ea86c884e3589c48eb3ad94f4b8bddb4afc56"
   dependencies:
     is-plain-obj: ^2.1.0
-  checksum: d86ddb3dd6e85d558dbf25dc944f3527b6bacb944db3fdda6e84a3f59c4e4b85231095f58b835758b9a57708342dee0f8de0dffa352974a48221487fe9f4584f
+  checksum: 5a6d89f8819ed753b7b8391697b327726e6bd742684ef0e7592eba816596cb729c0edd94108d01a20c9a93a9ab7c76b7bdf34fede825d3d3fe5b618a4e1b9a2a
   languageName: node
   linkType: hard
 
